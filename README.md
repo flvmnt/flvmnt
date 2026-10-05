@@ -1,6 +1,6 @@
 ### Hey, I'm Flavius
 
-Full-stack engineer working with TypeScript, Python and PostgreSQL. I build and operate SaaS products, developer tools and data pipelines. Open to contract work.
+Product developer building web apps, SaaS features and automations. I use AI-assisted development alongside hands-on testing, deployment and iteration. Open to contract work.
 
 #### What I'm working on
 
