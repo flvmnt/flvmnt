@@ -29,4 +29,4 @@ Also the main suspect behind my 10k+ GitHub contributions over the past year. 馃
 
 #### Get in touch
 
-[Email](mailto:contact@pgfence.com) 路 [Upwork](https://www.upwork.com/freelancers/~01923c0a202b43d2cb)
+[Email](mailto:contact@pgfence.com) 路 [Upwork](https://www.upwork.com/freelancers/~01923c0a202b43d2cb) 路 [Contra](https://contra.com/flaviusm) 路 [Malt](https://www.malt.com/profile/flaviusm)
